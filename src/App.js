@@ -584,29 +584,6 @@ function App() {
                     </div>
                   </div>
 
-                  <div class="flex justify-evenly .... mt-2">
-                    <div class="avatar">
-                      <div class="object-contain rounded-xl m-2 place-items-center">
-                      <img src={contractSample[1]} />
-                      </div>
-                    </div>
-                    <div class="avatar">
-                      <div class="object-contain rounded-xl m-2 place-items-center">
-                      <img src={contractSample[2]} />
-                      </div>
-                    </div>
-                    <div class="avatar">
-                      <div class="object-contain rounded-xl m-2 place-items-center">
-                      <img src={contractSample[3]} />
-                      </div>
-                    </div>
-                    <div class="avatar">
-                      <div class="object-contain rounded-xl m-2 place-items-center">
-                      <img src={contractSample[4]} />
-                      </div>
-                    </div>
-                  </div>
-
                   </p>
                 </div>
                 </div>
